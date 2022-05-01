@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_main_music_app</string>
+    <string name="no_account">Not have account? <b>Sign Up</b></string>
+    <string name="have_account">You have a account? <b>Login</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_main_music_app">First main music app</string>
+</resources>
